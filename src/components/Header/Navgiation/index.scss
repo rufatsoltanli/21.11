@@ -1,0 +1,18 @@
+nav {
+    .navcont {
+        ul {
+            display: flex;
+            width: max-content;
+            gap: 30px;
+            margin: 15px auto;
+
+            li {
+                font-size: 26px;
+
+                a {
+                    color: black;
+                }
+            }
+        }
+    }
+}
